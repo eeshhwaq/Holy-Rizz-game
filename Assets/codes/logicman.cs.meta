@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 746cf7958c1607b48be08aaa2a853627
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoretext: {instanceID: 0}
+  - goscreen: {instanceID: 0}
+  - audio: {instanceID: 0}
+  - failaudio: {fileID: 8300000, guid: a036a5141d7b87741b70f2f5b7f27d99, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
